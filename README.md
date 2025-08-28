@@ -62,4 +62,5 @@ Acesse a documentação interativa:
 
 ---
 
-**Desenvolvido para gestão eficiente de materiais de construção** 🏗️
+**Desenvolvido para gestão eficiente de materiais de Armazém de construção** 🏗️
+
