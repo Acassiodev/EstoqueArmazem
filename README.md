@@ -1,6 +1,7 @@
 🏗️ API de Gerenciamento de Estoque - Armazém de Construção
 Uma API RESTful completa para controle de produtos, categorias e movimentações de estoque em loja de materiais de construção. Desenvolvida com Python e FastAPI, seguindo as melhores práticas de arquitetura de software.
 
+
 ✨ Funcionalidades
 ✅ Gerenciamento de Categorias: Criar, listar, buscar, atualizar e deletar categorias de materiais
 
@@ -54,6 +55,7 @@ Códigos HTTP apropriados para cada scenario
 Tratamento de erros claro e informativo
 
 Logging para operações críticas
+
 
 
 
